@@ -170,7 +170,7 @@ select {
 	position: relative;
 	max-width: 395px;
 }
-.parent1 {
+.parent {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	grid-auto-rows: minmax(303px, auto);
